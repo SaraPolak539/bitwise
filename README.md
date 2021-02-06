@@ -1,0 +1,2 @@
+# bitwise
+bitwise and bitboard
